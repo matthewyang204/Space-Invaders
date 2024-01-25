@@ -1,7 +1,9 @@
 # Space Invaders
-A modern edition of what is recognized as the world's first shoote 'em up game. This edition is made with Scratch and Electron.
+A modern edition of what is recognized as the world's first shoot 'em up game. This edition is made with Scratch and Electron.
 
 Requirements:
+
+At least 4 GB of RAM
 
 Windows (Intel): 64-bit processor, 10 or later
 
