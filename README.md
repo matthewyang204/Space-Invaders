@@ -21,8 +21,8 @@ macOS:
 Windows:
 
 1. Download the ZIP archive from the Release you want to use.
-1. Unzip it to your Program Files folder.
-3. It should work now.
+2. Copy the folder in the ZIP archive called "Windows" to your program files folder.
+3. Rename the folder to "Space Invaders".
 
 Linux: I haven't used Linux much and do not know how to use it. I just provided the ZIP for anyone here who knows how to.
 
