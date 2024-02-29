@@ -16,9 +16,15 @@ Linux: 64-bit Intel processor
 Usage instructions:
 
 macOS:
+1. Download the install.sh file above to your Downloads folder
+2. Open a new terminal window
+3. Type
+```
+sh ~/Downloads/install.sh
+```
+and press enter. If it prompts for password, enter it.
 
-1. Download the .dmg file from the Release you want to use.
-2. Open it, and drag the app to the Applications folder. Note: If it gives you the malware warning message upon opening it, just click "cancel" and then right-click the app. Select Open from the menu and then Open again in the popup.
+Note: If it gives you the malware warning message when opening the app, just click "cancel" and then right-click the app. Select Open from the menu and then Open again in the popup.
 
 Windows:
 
