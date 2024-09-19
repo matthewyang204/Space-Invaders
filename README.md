@@ -16,15 +16,15 @@ Linux: 64-bit Intel processor
 Usage instructions:
 
 macOS:
-1. Download the install.sh file above to your Downloads folder
-2. Open a new terminal window
-3. Type
-```
-sh ~/Downloads/install.sh
-```
-and press enter. If it prompts for password, enter it.
+1. Downloads the disk image/ZIP archive that has macOS in its name
+2. Unzip if it's a zip archive, open disk image if disk image
+3. Move app to Applications folder
 
-Note: If it gives you the malware warning message when opening the app, just click "cancel" and then right-click the app. Select Open from the menu and then Open again in the popup.
+Note: If it gives you the malware warning message when opening the app run the following to disable gatekeeper's warnings:
+```
+sudo spctl --master-disable
+```
+The problem with macOS is that gatekeeper warns about apps that are unsigned, saying they "contain malware, and that you should move them to the trash". However, it also does this on all unsigned apps, safe app or not.
 
 Windows:
 
