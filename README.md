@@ -33,7 +33,11 @@ Windows:
 3. Rename the folder to "Space Invaders".
 4. Move it to your Program Files folder
 
-Linux: I haven't used Linux much and do not know how to use it. I just provided the ZIP for anyone here who knows how to.
+Linux:
+1. Download the ZIP archive
+2. Unzip it
+3. Put it wherever you'd like
+4. Run start.sh in a new terminal
 
 ChromeOS:
 
