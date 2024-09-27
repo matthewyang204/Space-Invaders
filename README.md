@@ -41,8 +41,7 @@ Linux:
 
 ChromeOS:
 
-1. Download the .html.zip file from the Release you want to use.
-2. Decompress it to anywhere you want on your local drive.
-3. Open it.
+1. Download the .html and put it wherever you want on your chromebook's local storage.
+2. Open it.
 
 To update: There are no settings to lose, so just follow the installation instructions above to install a newer release.
